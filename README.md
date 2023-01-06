@@ -1,4 +1,4 @@
-# DG_Week_7: Data Science Project - Persistency of a Drug
+# Data Glacier Week 7: Data Science Project - Persistency of a Drug
 
 **Business Problem**
 
