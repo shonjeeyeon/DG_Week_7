@@ -1,4 +1,4 @@
-# Data Glacier Week 7: Data Science Project - Persistency of a Drug
+# Data Glacier Week 7: Final Project - Persistency of a Drug
 
 **Business Problem**
 
@@ -9,3 +9,7 @@ Using data in real cases, a machine learning model can learn relationships betwe
 
 A model will be established and deployed to automate identifying persistency of a certain pharmaceutical product. 
 Records of 3,424 patients who take the medication will be used for analysis, and correlation between medication persistency and other factors such as patient demographics, provider attributes, clinical factors, and disease factors will be investigated. Finally, an optimal model to predict persistency based on above features will be selected and developed.
+
+**Weekly Progress**
+
+The dataset was downloaded and inspected for data types, missing values, and duplicates. Also, time frame for the model development was constructed.
